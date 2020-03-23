@@ -1,1 +1,1 @@
-#Basic Random Quote Genrator CODed using HTML, CSS,  JS 
+# This a Nice, clean basic Random Quotes Genarator
